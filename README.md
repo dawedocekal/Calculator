@@ -1,2 +1,2 @@
 # Calculator
-Simple calculator.
+Simple program for calculator.
